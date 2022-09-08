@@ -1,0 +1,3 @@
+/home/carlos/Desktop/Udacity/C++/CS/CppND-CSProject_AirTraficRouter/CMakeFiles/rebuild_cache.dir
+/home/carlos/Desktop/Udacity/C++/CS/CppND-CSProject_AirTraficRouter/CMakeFiles/edit_cache.dir
+/home/carlos/Desktop/Udacity/C++/CS/CppND-CSProject_AirTraficRouter/CMakeFiles/enroute.dir
